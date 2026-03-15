@@ -3,11 +3,11 @@
 [![GitHub Stars](https://img.shields.io/github/stars/user/beat-the-algo?style=social)](https://github.com/user/beat-the-algo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Stop shouting into the void. **Beat the Algo** is a community-driven repository designed to deconstruct, reverse-engineer, and master the algorithms of major social media platforms. Whether you're a developer, creator, or marketer, this project provides the data-backed strategies and technical insights needed to skyrocket your post engagement.
+Stop shouting into the void. **Beat That Algo** is a community-driven repository designed to deconstruct, reverse-engineer, and master the algorithms of major social media platforms. Whether you're a developer, creator, or marketer, this project provides the data-backed strategies and technical insights needed to skyrocket your post engagement.
 
 ---
 
-## 🌪️ Why "Beat the Algo"?
+## 🌪️ Why "Beat That Algo"?
 
 Social media algorithms (Threads, LinkedIn, Instagram, Facebook, X/Twitter) are constantly evolving black boxes. What worked yesterday won't work today. This repo serves as a living documentation of:
 
