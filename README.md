@@ -1,6 +1,6 @@
 # 🚀 Beat That Algo: The Ultimate Social Media Growth Engine
 
-[![GitHub Stars](https://img.shields.io/github/stars/user/beat-the-algo?style=social)](https://github.com/user/beat-the-algo)
+[![GitHub Stars](https://img.shields.io/github/stars/user/beat-the-algo?style=social)](https://github.com/Soluna-MY/beat-that-algo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Stop shouting into the void. **Beat That Algo** is a community-driven repository designed to deconstruct, reverse-engineer, and master the algorithms of major social media platforms. Whether you're a developer, creator, or marketer, this project provides the data-backed strategies and technical insights needed to skyrocket your post engagement.
