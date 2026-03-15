@@ -1,4 +1,4 @@
-# 🚀 Beat the Algo: The Ultimate Social Media Growth Engine
+# 🚀 Beat That Algo: The Ultimate Social Media Growth Engine
 
 [![GitHub Stars](https://img.shields.io/github/stars/user/beat-the-algo?style=social)](https://github.com/user/beat-the-algo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
